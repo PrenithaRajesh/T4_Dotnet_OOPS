@@ -1,0 +1,15 @@
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\bin\Debug\net8.0\Dotnet_OOPS.exe
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\bin\Debug\net8.0\Dotnet_OOPS.deps.json
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\bin\Debug\net8.0\Dotnet_OOPS.runtimeconfig.json
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\bin\Debug\net8.0\Dotnet_OOPS.dll
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\bin\Debug\net8.0\Dotnet_OOPS.pdb
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.AssemblyInfo.cs
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.sourcelink.json
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.dll
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\refint\Dotnet_OOPS.dll
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.pdb
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\Dotnet_OOPS.genruntimeconfig.cache
+C:\DEVELOPMENT\MUFG_Training\Dotnet_OOPS\obj\Debug\net8.0\ref\Dotnet_OOPS.dll
