@@ -1,4 +1,5 @@
 ﻿using Dotnet_OOPS.Task1;
+using Dotnet_OOPS.Task2;
 
 Circle circle = new Circle();
 circle.Draw();
@@ -8,3 +9,13 @@ Shape rectangle = new Rectangle();
 rectangle.Draw();
 Rectangle.Fun();
 Shape.Fun();
+
+Console.WriteLine("-----------------");
+
+IShape square = new Square2();
+Console.WriteLine("Area of square: " + square.CalculateArea(4));
+Console.WriteLine("Perimeter of square: " + square.CalculatePerimeter(4));
+
+IShape circle2 = new Circle2();
+Console.WriteLine("Area of circle: " + circle2.CalculateArea(4));
+Console.WriteLine("Perimeter of circle: " + circle2.CalculatePerimeter(4));
